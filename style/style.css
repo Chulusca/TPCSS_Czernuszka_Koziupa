@@ -20,22 +20,25 @@ img{
     margin-right: 10%;
     margin-left: 12%;
 }
-#ColdIce{
-    margin-left: 12%;
-    margin-right: 61.5%;
-    
+.ColdIce{
+    margin-left: 20%;
+    margin-right: 20.5%;
+    float: left;
 }
-#DontGiveUp{
-    margin-left: 62%;
-    margin-right: 12%;
+.DontGiveUp{
+    margin-left: 15%;
+    margin-right: 20%;
+    float: right;
 }
-#Kanye{
-    margin-left: 62%;
-    margin-right: 12%;
+.Kanye{
+    margin-left: 20%;
+    margin-right: 20.5%;
+    float: left;
 }
-#Humanhood{
-    margin-left: 12%;
-    margin-right: 61.5%;
+.Humanhood{
+    margin-left: 15%;
+    margin-right: 17%;
+    float: right;
 }
 p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
